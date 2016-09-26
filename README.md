@@ -18,14 +18,31 @@
             <h3 class="name"> <strong> Nike </stong> </h3>
             <div>
                 <ul class="nav nav-tabs">
-                    <li role="presentation" class="active"><a href="#">Home</a></li>
-                    <li role="presentation"><a href="#">Apperal and shoes </a></li>
+                    <li role="presentation"><a href="#">Home</a></li>
+                    <li role="presentation" class="active"><a href="#">Apperal and shoes </a></li>
                     <li role="presentation"><a href="#"> Sponsors </a></li>
                     <li role="presentation"><a href="#">Contact info </a></li>
                 </ul>
             </div> 
         </div>
-    </div>
+        <div class="row">
+            <div class="col-md-12">
+                <h2 id="text"> What's new and cool with Nike</h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <img src="">
+            </div>
+            <div class="col-md-4">
+                <img src="">
+            </div>
+            <div class="col-md-4">
+                <img src="">
+            </div>
+        </div>
         
+    
+    </div>
 </body>    
 </html>
