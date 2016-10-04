@@ -20,7 +20,7 @@
                 <ul class="nav nav-tabs">
                     <li role="presentation"><a href="index.html">Home</a></li>
                     <li role="presentation" class="active"><a href="Secondpage.html">Apperal and Shoes </a></li>
-                    <li role="presentation"><a href="#">Contact info </a></li>
+                    <li role="presentation"><a href="Contact.html">Contact info </a></li>
                 </ul>
             </div> 
         </div>
